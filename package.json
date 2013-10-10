@@ -1,0 +1,13 @@
+{
+  "name": "Slurper",
+  "version": "0.1.0",
+  "description": "Slurps the json objects from a restful client.",
+  "authors": [
+    "Jason Ho"
+  ],
+  "devDependencies" : {
+    "node-rest-client" : "",
+    "underscore" : "",
+    "express": "2.4.7"
+  }
+}
